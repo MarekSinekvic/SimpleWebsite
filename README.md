@@ -1,2 +1,2 @@
 # SimpleWebsite
-Not finished, need to add some categories
+Not completed, need to add some categories
